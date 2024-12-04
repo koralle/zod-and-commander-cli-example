@@ -8,6 +8,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@tsconfig/strictest": "^2.0.5",
     "typescript": "^5.7.2"
   }
 }
